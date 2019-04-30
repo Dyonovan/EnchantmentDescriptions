@@ -1,0 +1,55 @@
+namedenchantments:tooltip.activate=Halte %s%s%s für beschreibeung der Verzauberung.
+
+#minecraft
+namedenchantments:enchant.minecraft.protection=-Allgemeiner Schutz gegen Angriffs-, Feuer-, Lava-, und Fallschaden
+namedenchantments:enchant.minecraft.fire_protection=-Reduziert Feuer- und Lavaschaden
+namedenchantments:enchant.minecraft.feather_falling=-Reduziert Fall- und Teleportationsschaden
+namedenchantments:enchant.minecraft.blast_protection=-Reduziert Explosionsschaden
+namedenchantments:enchant.minecraft.projectile_protection=-Reduziert Projektilschaden
+namedenchantments:enchant.minecraft.respiration=-Verlängert Unterwasseratmung
+namedenchantments:enchant.minecraft.aqua_affinity=-Erhöht die Abbaugeschwindigkeit unterwasser
+namedenchantments:enchant.minecraft.thorns=-Verursacht schaden beim Angreifer
+namedenchantments:enchant.minecraft.depth_strider=-Erhöht die Geschwindigkeit mit der man sich unterwasser bewegen kann
+namedenchantments:enchant.minecraft.frost_walker=-Gefriert wasser unter dem Spieler
+namedenchantments:enchant.minecraft.binding_curse=-Verfluchtes Item kann nicht vom spieler entfernt werden
+namedenchantments:enchant.minecraft.sharpness=-Erhöht Angrifsschaden
+namedenchantments:enchant.minecraft.smite=-Erhöht schaden gegenüber untoten Gegnern
+namedenchantments:enchant.minecraft.bane_of_arthropods=-Erhöht schaden gegenüber Spinnen
+namedenchantments:enchant.minecraft.knockback=-wirft den Gegner zurück
+namedenchantments:enchant.minecraft.fire_aspect=-zünded Gegner an
+namedenchantments:enchant.minecraft.looting=-Erhöht Anzahl der gedroppten items
+namedenchantments:enchant.minecraft.sweeping=-Erhöht Schaden des Schwungschlags
+namedenchantments:enchant.minecraft.efficiency=-Erhöht allgemeine Abbaugeschwindigkeit
+namedenchantments:enchant.minecraft.silk_touch=-Baut Blöcke ab wie sie sind
+namedenchantments:enchant.minecraft.unbreaking=-Erhöht die Haltbarkeit der items
+namedenchantments:enchant.minecraft.fortune=-Erhöht die Drops von abgebauten Blöcken
+namedenchantments:enchant.minecraft.power=-Erhöht Schaden eines Bogens
+namedenchantments:enchant.minecraft.punch=-Erhöht Rückstoß eines Bogens
+namedenchantments:enchant.minecraft.flame=-Verwandelt Pfeile in brennende Pfeile
+namedenchantments:enchant.minecraft.infinity=-Schießt eine unbegrenzte anzahl an Pfeilen
+namedenchantments:enchant.minecraft.luck_of_the_sea=-Erhöht die Chance Schätze zu fangen
+namedenchantments:enchant.minecraft.lure=-Erhöht die Chance Fische zu fangen
+namedenchantments:enchant.minecraft.mending=-Nutzt EXP um das Item zu reparieren
+namedenchantments:enchant.minecraft.vanishing_curse=-Verfluchtes Item verschwindet beim Tod des Spielers
+
+# enderio/endercore
+namedenchantments:enchant.endercore.xpboost=-Extra EXP von mobs und drops
+namedenchantments:enchant.enderio.repellent=-Chance den Angreifer wegzuteleportieren
+namedenchantments:enchant.enderio.shimmer=-Lässt das Item glänzen als wäre es verzaubert
+namedenchantments:enchant.enderio.witherweapon=-Withert das ziel (Nahkampfwaffen)
+namedenchantments:enchant.enderio.soulbound=-Verhindert den Verlust von Items beim Tod
+namedenchantments:enchant.enderio.witherarrow=-Withert das Ziel (Bogen)
+namedenchantments:enchant.endercore.autosmelt=-Schmilzt abgebaute Items
+
+# soul shards respawn
+namedenchantments:enchant.soulshardsrespawn.soul_stealer=-Fügt eine zusätzliche Seele pro Level zum Seelenstein hinzu
+
+# cofh core
+namedenchantments:enchant.cofhcore.leech=-Heilt den Spieler wenn er Schaden verursacht
+namedenchantments:enchant.cofhcore.vorpal=-Erhört den Schaden stark und erhöht die warscheinlichkeit Köpfe zu droppen
+namedenchantments:enchant.cofhcore.insight=-Erhöht die Anzahl der erhatltenen EXP wenn das Item verwendet wird
+namedenchantments:enchant.cofhcore.smelting=-Schmilzt den abgebauten Block
+namedenchantments:enchant.cofhcore.multishot=-Bogen schießen mehrere Pfeile auf einmal, verbraucht aber nur einen Pfeil
+namedenchantments:enchant.cofhcore.holding=-Erhöht den Speicherplatz von bestimmten Items und Blöcken.
+namedenchantments:enchant.cofhcore.smashing=-Zermalmt einen Erzblock in mehrere Erzstäube
+namedenchantments:enchant.cofhcore.soulbound=-Verhindert das ein Item gedropt wird wenn ein Spieler stirbt
