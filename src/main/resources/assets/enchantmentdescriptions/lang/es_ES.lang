@@ -1,0 +1,55 @@
+namedenchantments:tooltip.activate=Manten presionado %s%s%s para obtener la descriciòn del objeto.
+
+#minecraft
+namedenchantments:enchant.minecraft.protection=-Una Protecciòn general contra ataques, lava y daño por caida.
+namedenchantments:enchant.minecraft.fire_protection=-Reduce el daño causado por el fuego y la lava.
+namedenchantments:enchant.minecraft.feather_falling=-Reduce el daño causado por caida y la teletransportaciòn.
+namedenchantments:enchant.minecraft.blast_protection=-Reduce el daño causado por estallido y explociones.
+namedenchantments:enchant.minecraft.projectile_protection=-Reduce el daño causado por proyectiles.
+namedenchantments:enchant.minecraft.respiration=-Aumenta la capacidad para respirar bajo el agua.
+namedenchantments:enchant.minecraft.aqua_affinity=-Aumenta la velocidad con la que rompes bloques bajo el agua.
+namedenchantments:enchant.minecraft.thorns=-Causa daño a los atacantes.
+namedenchantments:enchant.minecraft.depth_strider=-Aumenta la velocidad de movimiento bajo el agua.
+namedenchantments:enchant.minecraft.frost_walker=-Congela el agua mientras caminas sobre ella.
+namedenchantments:enchant.minecraft.binding_curse=-Maldice al objeto para que el Jugador no pueda removerlo.
+namedenchantments:enchant.minecraft.sharpness=-Aumenta el daño a las entidades.
+namedenchantments:enchant.minecraft.smite=-Aumenta el daño contra las Entidades no-muertas.
+namedenchantments:enchant.minecraft.bane_of_arthropods=-Aumenta el daño contra las arañas.
+namedenchantments:enchant.minecraft.knockback=-Empuja a los enemigos.
+namedenchantments:enchant.minecraft.fire_aspect=-Prende fuego al objetivo.
+namedenchantments:enchant.minecraft.looting=-Aumenta el Botìn obtenido de las entidades asesinadas.
+namedenchantments:enchant.minecraft.sweeping=-Aumenta el daño del ataque de barrido.
+namedenchantments:enchant.minecraft.efficiency=-Aumenta la velocidad con la que "minas" los bloques.
+namedenchantments:enchant.minecraft.silk_touch=-Mina los bloques sin cambiar su estado.
+namedenchantments:enchant.minecraft.unbreaking=-Incrementa la durabilidad de los bloques.
+namedenchantments:enchant.minecraft.fortune=-Aumenta la proporciòn de objetos obtenidos al minar.
+namedenchantments:enchant.minecraft.power=-Aumenta el daño cusado por el arco.
+namedenchantments:enchant.minecraft.punch=-Incrementa el Empuje causado por el arco.
+namedenchantments:enchant.minecraft.flame=-Convierte tus flechas en flechas incendiarias. 
+namedenchantments:enchant.minecraft.infinity=-Dispara una cantidad infinita de flechas (debes tener al menos una flecha en el inventario).
+namedenchantments:enchant.minecraft.luck_of_the_sea=-Incrementa la probabilidad de pescar objetos valiosos.
+namedenchantments:enchant.minecraft.lure=-Incrementa la probabilidad de que pesques mas peces.
+namedenchantments:enchant.minecraft.mending=-Usa expperiencia para reparar tus herramientas, armas y armadura.
+namedenchantments:enchant.minecraft.vanishing_curse=-Maldice el objeto para que desaparezca tras la muerte del Jugador.
+
+# enderio/endercore
+namedenchantments:enchant.endercore.xpboost=-Obtenciòn extra de Experiencia.
+namedenchantments:enchant.enderio.repellent=-Posibilidad de teletransportar a los atacantes.
+namedenchantments:enchant.enderio.shimmer=-Hace que el objeto brille como si estuviera encantado.
+namedenchantments:enchant.enderio.witherweapon=-Aplica "Descomposiciòn al objetivo (Armas cuerpo a cuerpo).
+namedenchantments:enchant.enderio.soulbound=-Evita que los objetos se pierdan tras la muerte.
+namedenchantments:enchant.enderio.witherarrow=-Aplica "Descomposiciòn" al objetivo (Arcos)
+namedenchantments:enchant.endercore.autosmelt=-Funde todos los objetos minados.
+
+# soul shards respawn
+namedenchantments:enchant.soulshardsrespawn.soul_stealer=-Añade una alma adicional por nivel.
+
+# cofh core
+namedenchantments:enchant.cofhcore.leech=-Cura al jugador cuando asesina a una Entidad o Jugador.
+namedenchantments:enchant.cofhcore.vorpal=-Amplio incremento de daño y aumenta la posibilidad de obtener la cabeza de la Entidad o Jugador.
+namedenchantments:enchant.cofhcore.insight=-Aumenta la cantidad de experiencia obtenida al usar una herramienta, espada o arco.
+namedenchantments:enchant.cofhcore.smelting=-Funde todos los objetos minados.
+namedenchantments:enchant.cofhcore.multishot=-Dispara multiples flechas con el arco, al costo de una sola flecha.
+namedenchantments:enchant.cofhcore.holding=-Aumenta la capacidad de almacenamiento de ciertos objetos o bloques.
+namedenchantments:enchant.cofhcore.smashing=-Tritura de forma inmediata minerales convirtiendolos en varios montones polvos.
+namedenchantments:enchant.cofhcore.soulbound=-Evita que los objetos se pierdan tras la muerte.
